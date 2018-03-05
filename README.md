@@ -19,3 +19,5 @@ Pong6
 Pang6
 Ping7
 Pong7
+Pang7
+
