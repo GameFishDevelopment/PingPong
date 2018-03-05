@@ -22,3 +22,4 @@ Pong7
 Pang7
 Ping8
 Pong8
+Pang8
